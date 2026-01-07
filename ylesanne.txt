@@ -1,0 +1,9 @@
+1. Kirjuta oma nimi: 
+ 
+2. Nimeta peast v„hemalt 5 Exceli funktsiooni: 
+ 
+3. Kirjuta t„nane kuup„ev: 
+ 
+4. Lahtris B1 on kirjas 100. Lahtris B2 = 200. Lahtrisse B10: =AVERAGE(B1:B2)/5 
+ 
+5. Lahtris B1 on v„„rtus 100 ja lahtris B2 v„„rtus 200. Lahtrisse B5: =SUM(B1:B2)/2 
