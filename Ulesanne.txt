@@ -1,0 +1,5 @@
+1. Mis on Git?
+2. Mida teeb käsk git commit?
+3. Kuidas luua uus haru?
+4. Mis on GitHub?
+5. Mis vahe on käskudel git pull ja git push?
