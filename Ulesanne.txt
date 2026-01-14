@@ -7,3 +7,4 @@ git branch harunimi
 4. Mis on GitHub?
 server, kus hoitakse inimeste andmehoidlaid
 5. Mis vahe on käskudel git pull ja git push?
+Käsuga pull saate andmed kätte ja käsuga push laadite need repositooriumisse üles.
