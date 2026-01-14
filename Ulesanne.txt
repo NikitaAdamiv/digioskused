@@ -3,5 +3,6 @@ on versioonihaldussüsteem, mida kasutatakse lähtekoodi ja muude failide muudat
 2. Mida teeb käsk git commit?
 kinnitab faili
 3. Kuidas luua uus haru?
+git branch harunimi
 4. Mis on GitHub?
 5. Mis vahe on käskudel git pull ja git push?
