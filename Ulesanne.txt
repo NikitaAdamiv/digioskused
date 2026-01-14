@@ -1,5 +1,5 @@
 1. Mis on Git? Git on versioonihaldussüsteem, mida kasutatakse koodi ja failide muutuste jälgimiseks ning meeskonnatööks.
 2. Mida teeb käsk git commit? Käsk git commit salvestab muudatused lokaalsesse reposse koos kirjeldusega
-3. Kuidas luua uus haru?
+3. Kuidas luua uus haru? Uue haru saab luua käsuga git branch haru_nimi või git checkout -b haru_nimi.
 4. Mis on GitHub?
 5. Mis vahe on käskudel git pull ja git push?
