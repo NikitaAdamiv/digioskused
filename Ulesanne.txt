@@ -1,6 +1,7 @@
 1. Mis on Git?
 on versioonihaldussüsteem, mida kasutatakse lähtekoodi ja muude failide muudatuste jälgimiseks
 2. Mida teeb käsk git commit?
+kinnitab faili
 3. Kuidas luua uus haru?
 4. Mis on GitHub?
 5. Mis vahe on käskudel git pull ja git push?
