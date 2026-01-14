@@ -2,4 +2,4 @@
 2. Mida teeb käsk git commit? Käsk git commit salvestab muudatused lokaalsesse reposse koos kirjeldusega
 3. Kuidas luua uus haru? Uue haru saab luua käsuga git branch haru_nimi või git checkout -b haru_nimi.
 4. Mis on GitHub? GitHub on veebipõhine platvorm Git-repositoryde hoidmiseks ja koostööks.
-5. Mis vahe on käskudel git pull ja git push?
+5. Mis vahe on käskudel git pull ja git push? git pull tõmbab muudatused kaug-repositoryst lokaalsesse reposse, git push saadab lokaalsed muudatused kaug-repositorysse.
